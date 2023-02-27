@@ -1,0 +1,14 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "title": "Ignite Style Nodejs Template Documentation",
+        "description": "This is an Template",
+        "version": "1.0.0",
+        "contact": {
+            "email": "dev.gbcproject@gmail.com"
+        }
+    },
+    "paths": {},
+    "definitions": {},
+    "components": {}
+}
